@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ye Yu (余烨)"
+title                    : "HFUT-CV Lab"
 title_separator          : "-"
-name                     : &name "Ye Yu"
+name                     : &name "HFUT-CV Lab"
 description              : &description "Ye Yu - Associate Professor at Hefei University of Technology, Computer Vision Research"
 url                      : https://hfut-cv.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"

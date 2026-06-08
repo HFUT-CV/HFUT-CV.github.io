@@ -22,9 +22,9 @@ redirect_from:
   text-justify: inter-word;
 }
 /* 左右栏中间间距加宽 */
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 48em) {
   .page {
-    padding-left: 3em !important;
+    margin-left: 4em !important;
   }
 }
 </style>
@@ -34,7 +34,7 @@ Welcome to the **HFUT-CV Lab** at Hefei University of Technology. Our research f
 <a id="about-me"></a>
 ## About Me
 
-Ye Yu, Ph.D., Associate Professor and Ph.D. Supervisor at the School of Computer Science and Information Engineering, Hefei University of Technology (HFUT). She received her Ph.D. in Computer Science and Technology from HFUT in May 2010 (supervised by Professor [Xiaoping Liu]). From September 2008 to October 2009, she was a visiting scholar at the University of North Texas, USA (supervised by Professor [Bill P. Buckles]). From March 2017 to April 2018, she was a visiting scholar at the State University of New York at Buffalo, USA (supervised by Professor [Changwen Chen]).
+Ye Yu, Ph.D., Associate Professor and Ph.D. Supervisor at the School of Computer Science and Information Engineering, Hefei University of Technology (HFUT). She received her Ph.D. in Computer Science and Technology from HFUT in May 2010 (supervised by Professor [Xiaoping Liu](http://faculty.hfut.edu.cn/lxp1/zh_CN/index/118673/list/index.htm)). From September 2008 to October 2009, she was a visiting scholar at the University of North Texas, USA (supervised by Professor [Bill P. Buckles](https://engineering.unt.edu/people/bill-buckles.html)). From March 2017 to April 2018, she was a visiting scholar at the State University of New York at Buffalo, USA (supervised by Professor [Changwen Chen](https://www.polyu.edu.hk/comp/people/academic-staff/prof-chen-changwen/)).
 
 She is an IEEE Senior Member, a member of CCF (China Computer Federation) and CSIG (China Society of Image and Graphics). She received the First Prize of the Anhui Provincial Transportation Science and Technology Progress Award for her contributions to the project "Key Technologies for Intelligent Recognition and Cross-validation of Commercial Vehicles and Drivers." Her teams have won championship awards in challenges held at leading conferences including **ACM MM 2023**, **ICCV 2023**, **ECCV 2022**, **CVPR 2021**, and **ICME 2020**. She was recognized as an Outstanding Reviewer for the Journal of Image and Graphics (2023) and Computer Engineering and Science (2025), received the CCF-CV Service Award (2020), as well as teaching awards from her university. She serves as a reviewer for a number of leading journals and conferences, including IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, Neural Networks, Pattern Recognition, ISPRS Journal of Photogrammetry and Remote Sensing, Image and Vision Computing, Chinese Journal of Computers, Acta Automatica Sinica, and Journal of Image and Graphics.
 
