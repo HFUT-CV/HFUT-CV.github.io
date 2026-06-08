@@ -38,7 +38,7 @@ Ye Yu, Ph.D., Associate Professor and Ph.D. Supervisor at the School of Computer
 
 She is an IEEE Senior Member, a member of CCF (China Computer Federation) and CSIG (China Society of Image and Graphics). She received the First Prize of the Anhui Provincial Transportation Science and Technology Progress Award for her contributions to the project "Key Technologies for Intelligent Recognition and Cross-validation of Commercial Vehicles and Drivers." Her teams have won championship awards in challenges held at leading conferences including **ACM MM 2023**, **ICCV 2023**, **ECCV 2022**, **CVPR 2021**, and **ICME 2020**. She was recognized as an Outstanding Reviewer for the Journal of Image and Graphics (2023) and Computer Engineering and Science (2025), received the CCF-CV Service Award (2020), as well as teaching awards from her university. She serves as a reviewer for a number of leading journals and conferences, including IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, Neural Networks, Pattern Recognition, ISPRS Journal of Photogrammetry and Remote Sensing, Image and Vision Computing, Chinese Journal of Computers, Acta Automatica Sinica, and Journal of Image and Graphics.
 
-Feel free to contact us if you are interested in collaboration or joining our group!
+**Feel free to contact us if you are interested in collaboration or joining our group!**
 
 ---
 
