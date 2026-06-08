@@ -7,6 +7,22 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* 正文段落两端对齐 */
+.page__content p,
+.page__content li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+/* 侧边栏个人简介两端对齐 */
+.author__bio {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
+Welcome to the **HFUT-CV Lab** at Hefei University of Technology. Our research focuses on computer vision, including multi-modal models, video/image anomaly detection, image detection and recognition, low-level computer vision tasks, large language models and their applications in computer vision.
+
 <a id="about-me"></a>
 ## About Me
 
