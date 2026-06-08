@@ -22,12 +22,16 @@ redirect_from:
   text-justify: inter-word;
 }
 /* 左右栏：左侧边栏变窄 + 中间间距加宽 */
-@media screen and (min-width: 48em) {
+@media screen and (min-width: 58em) {
   .sidebar {
-    max-width: 200px !important;
+    width: 200px !important;
+    float: left !important;
+    margin-right: 0 !important;
   }
   .page {
-    margin-left: 250px !important;
+    width: calc(100% - 260px) !important;
+    margin-left: 260px !important;
+    float: left !important;
   }
 }
 </style>
