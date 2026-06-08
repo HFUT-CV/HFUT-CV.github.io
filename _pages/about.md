@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ye Yu (余烨)"
+title: "HFUT-CV Lab"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,16 +8,24 @@ redirect_from:
 ---
 
 <style>
-/* 正文段落两端对齐 */
+/* 正文段落两端对齐 + 字体缩小一号 */
 .page__content p,
-.page__content li {
+.page__content li,
+.page__content dl {
   text-align: justify;
   text-justify: inter-word;
+  font-size: 0.85em;
 }
 /* 侧边栏个人简介两端对齐 */
 .author__bio {
   text-align: justify;
   text-justify: inter-word;
+}
+/* 左右栏中间间距加宽 */
+@media screen and (min-width: 1024px) {
+  .page {
+    padding-left: 3em !important;
+  }
 }
 </style>
 
